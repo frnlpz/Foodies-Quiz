@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
     int points = 0;
     String message;
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

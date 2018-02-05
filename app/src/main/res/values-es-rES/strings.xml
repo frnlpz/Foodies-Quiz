@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodies Quiz</string>
+    <string name="name">Nombre</string>
+    <string name="question1">Pregunta 1</string>
+    <string name="question2">Pregunta 2</string>
+    <string name="question3">Pregunta 3</string>
+    <string name="question4">Pregunta 4</string>
+    <string name="question5">Pregunta 5</string>
+    <string name="q1">¿Cual(es) de los siguientes aceites es/son saludable(s)?</string>
+    <string name="palm_oil">Aceite de palma</string>
+    <string name="sunflower_oil">Aceite de girasol</string>
+    <string name="olive_oil">Aceite de oliva</string>
+    <string name="q2">¿Cual(es) es/son mal(os) para la salud?</string>
+    <string name="monosodium_glutamate">Glutamato de sodio</string>
+    <string name="fortified_flour">Harina refinada</string>
+    <string name="sodium_benzoate">Benzoato sódico</string>
+    <string name="q3">¿Qué debemos evitar en nuestra dieta?</string>
+    <string name="trans_fat">Grasas trans</string>
+    <string name="folate">Calcio</string>
+    <string name="iron">Hierro</string>
+    <string name="q4">¿Cuántas frutas debemos comer al día?</string>
+    <string name="more_five">Cinco o más</string>
+    <string name="less_three">Menos de tres</string>
+    <string name="ten_fifteen">De diez a quince</string>
+    <string name="q5">¿Cuántos huevos debemos comer?</string>
+    <string name="three_five">De tres a cinco por semana</string>
+    <string name="one_per_day">Uno al día</string>
+    <string name="one_two">Uno o dos a la semana</string>
+    <string name="finish">Hecho</string>
+    <string name="send">Enviar</string>
+    <string name="results">Resultados</string>
+    <string name="you_got">, tienes</string>
+    <string name="out_of_100">puntos de un total de 100</string>
+    <string name="bad">¡Vaya! Deberías mejorar tu dieta para evitar enfermedades como Diabetes u Obesidad. ¡Continúa el esfuerzo!</string>
+    <string name="regular">Este es el camino, ¡continúa aprendiendo sobre salud y comida!</string>
+    <string name="good">¡Genial! ¡Está claro que sabes cómo cuidar de tu salud! :)</string>
+    <string name="subject">"Resultados de Foodies Quiz de "</string>
+</resources>

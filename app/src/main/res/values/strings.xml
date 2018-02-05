@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Foodies Quiz</string>
+    <string name="name">Name</string>
+    <string name="question1">Question #1</string>
+    <string name="question2">Question #2</string>
+    <string name="question3">Question #3</string>
+    <string name="question4">Question #4</string>
+    <string name="question5">Question #5</string>
+    <string name="q1">Which one/ones of the following oils is/are healthy?</string>
+    <string name="palm_oil">Palm oil</string>
+    <string name="sunflower_oil">Sunflower oil</string>
+    <string name="olive_oil">Olive oil</string>
+    <string name="q2">Which one/ones is/are bad for our health?</string>
+    <string name="monosodium_glutamate">Monosodium glutamate</string>
+    <string name="fortified_flour">Fortified flour</string>
+    <string name="sodium_benzoate">Sodium benzoate</string>
+    <string name="q3">What should we avoid in our diet?</string>
+    <string name="trans_fat">Trans fat</string>
+    <string name="folate">Calcium</string>
+    <string name="iron">Iron</string>
+    <string name="q4">How many fruits should we eat daily?</string>
+    <string name="more_five">Five or more</string>
+    <string name="less_three">Less than three</string>
+    <string name="ten_fifteen">Between ten and fifteen</string>
+    <string name="q5">How many eggs should we eat?</string>
+    <string name="three_five">Between three and five a week</string>
+    <string name="one_per_day">One per day</string>
+    <string name="one_two">One or two per week</string>
+    <string name="finish">Finish</string>
+    <string name="send">Send</string>
+    <string name="results">Results</string>
+    <string name="you_got">, you got </string>
+    <string name="out_of_100">points out of 100!</string>
+    <string name="bad">Ouch! You should improve your diet to avoid illnesses like Diabethes or Obesity. Keep on the way!</string>
+    <string name="regular">You are in the correct way, just keep on learning about health and food!</string>
+    <string name="good">Marvelous! It\'s clear that you know how to take care of your health! :)</string>
+    <string name="subject">Foodies Quiz results for </string>
+
+</resources>

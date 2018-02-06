@@ -24,10 +24,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void finish(View view){
         EditText nameText = findViewById(R.id.name_text);
-        String name = nameText.getText().toString();
-        calculatePoints();
-        generateMessage(name,points);
-        showResults();
+        if (nameText.getText().toString().trim().equalsIgnoreCase(""))
+            nameText.setError(getString(R.string.error));
+        else {
+            String name = nameText.getText().toString();
+            calculatePoints();
+            generateMessage(name,points);
+            showResults();
+        }
     }
 
     public void send(View view){

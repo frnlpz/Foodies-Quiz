@@ -35,5 +35,6 @@
     <string name="regular">You are in the correct way, just keep on learning about health and food!</string>
     <string name="good">Marvelous! It\'s clear that you know how to take care of your health! :)</string>
     <string name="subject">Foodies Quiz results for </string>
+    <string name="error">This field cannot be blank!</string>
 
 </resources>

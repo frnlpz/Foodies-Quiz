@@ -36,4 +36,6 @@
     <string name="regular">Este es el camino, ¡continúa aprendiendo sobre salud y comida!</string>
     <string name="good">¡Genial! ¡Está claro que sabes cómo cuidar de tu salud! :)</string>
     <string name="subject">"Resultados de Foodies Quiz de "</string>
+    <string name="error">Escribe un nombre</string>
+
 </resources>
